@@ -22,4 +22,4 @@ Officials said children who needed help were taken by local law enforcement to d
 
 The operation also produced criminal cases: the Office of Statewide Prosecution under Florida Attorney General James Uthmeier and the Miami-Dade State Attorney's Office are handling three felony cases that came out of it. Uthmeier said many of these children had been victimized by people who prey on the most vulnerable, and credited FDLE, his own Office of Statewide Prosecution and state and local partners with getting them to safety and into the care they deserve.
 
-The reporting is by [Briana Trujillo for NBC 6 South Florida](https://www.nbcmiami.com/news/local/operation-statewide-shield-163-missing-children-found/3621211/) published August 31, 2026 and updated September 1.
+The reporting is by [Briana Trujillo for NBC 6 South Florida](https://www.nbcmiami.com/news/local/163-missing-children-florida-miami-found-operation-statewide-shield/3852660/) published August 31, 2026 and updated September 1.
