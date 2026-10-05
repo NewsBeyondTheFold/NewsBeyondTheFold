@@ -2,8 +2,9 @@
 title: Beyond The Fold
 email: ""
 description: "News you probably missed. Underreported stories from around the world."
-baseurl: ""
-url: "[NewsBeyondTheFold.github.io](https://NewsBeyondTheFold.github.io)"
+baseurl: "/NewsBeyondTheFold"
+url: newsbeyondthefold.github.io
+
 github_username: NewsBeyondTheFold
 
 # Build settings
