@@ -1,7 +1,8 @@
 # Site settings
 title: Beyond The Fold
+name: Beyond The Fold
 email: ""
-description: "News you probably missed. Underreported stories from around the world."
+description: "News you probably missed. The stories that slid past your feed. World news, off the front page."
 baseurl: "/NewsBeyondTheFold"
 url: newsbeyondthefold.github.io
 
