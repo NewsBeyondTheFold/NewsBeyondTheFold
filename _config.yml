@@ -10,6 +10,7 @@ github_username: NewsBeyondTheFold
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
+future: true
 
 # Colours — used by the theme
 brand-color: "#12284B"
