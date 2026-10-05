@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Beyond The Fold exists for the stories that didn't make the front pages.
 
-### More Information
+Every day, reporting happens that never reaches most people — a regional
+investigation, a government report, a local TV segment. Often the reporting is
+solid and the story matters; it simply doesn't travel. That gap is what this
+page is for.
 
-A place to include any other types of information that you'd like to include about yourself.
+Every article names the outlet and journalist whose reporting it draws on, with
+a link to the original.
 
-### Contact me
+If something here is wrong, email me and I'll correct it and note the change.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact
+
+[newsbeyondthefold@gmail.com](mailto:newsbeyondthefold@gmail.com)
