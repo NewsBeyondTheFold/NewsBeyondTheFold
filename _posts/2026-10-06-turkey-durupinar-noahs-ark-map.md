@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Drilling Underway at Turkey's 'Noah's Ark' Formation Linked to a 1587 Map"
+image: /images/noahs-ark.jpg
 ---
 
 A team of researchers in eastern Turkey has begun deep core drilling into the controversial Durupınar formation — a 515-foot boat-shaped geological mound that recent viral attention tied to a 440-year-old Italian world map.
