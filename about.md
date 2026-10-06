@@ -16,6 +16,8 @@ a link to the original.
 
 If something here is wrong, email me and I'll correct it and note the change.
 
+If there's a story you would like me to cover, please don't hesitate to get in touch.
+
 ### Contact
 
 [newsbeyondthefold@gmail.com](mailto:newsbeyondthefold@gmail.com)
