@@ -4,7 +4,7 @@ name: Beyond The Fold
 email: ""
 description: "News you probably missed. The stories that slid past your feed. World news, off the front page."
 baseurl: "/NewsBeyondTheFold"
-url: newsbeyondthefold.github.io
+url: https://newsbeyondthefold.github.io
 
 github_username: NewsBeyondTheFold
 
