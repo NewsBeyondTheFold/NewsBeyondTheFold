@@ -4,6 +4,8 @@ title: "Drilling Underway at Turkey's 'Noah's Ark' Formation Linked to a 1587 Ma
 image: /images/noahs-ark.jpg
 ---
 
+![The Durupınar formation in eastern Turkey](/NewsBeyondTheFold/images/noahs-ark.jpg)
+
 A team of researchers in eastern Turkey has begun deep core drilling into the controversial Durupınar formation — a 515-foot boat-shaped geological mound that recent viral attention tied to a 440-year-old Italian world map.
 
 The site, located in the Doğubayazıt district of Ağrı Province near Mount Ararat, has long been claimed by fringe researchers and creationists to hold the petrified remains of Noah's Ark. Mainstream geologists, however, have long dismissed the mound as a natural erosion formation.
