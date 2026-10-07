@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Algeria Cut Ties With the UAE — and Almost Nobody Noticed"
+image: /images/algiers.jpg
 ---
+
+![The chamber of Algeria's National People's Assembly in Algiers](/NewsBeyondTheFold/images/algiers.jpg)
 
 ## What happened
 
@@ -24,3 +27,5 @@ Analysts place more weight on the Sahel. President Tebboune said last year that 
 One reading worth flagging, since it's the newest and least corroborated: political scientist Fatiha Dazi-Héni told Channel Africa that energy rivalry was central, pointing to a failed coup attempt in Niger on 20 August, after which Algeria reportedly deployed fighter jets to protect the Trans-Saharan gas pipeline to Europe — with Abu Dhabi funding a competing Atlantic pipeline for Morocco. That's one analyst's account rather than established fact.
 
 The reporting is by [Reuters](https://www.reuters.com/world/middle-east/algeria-cuts-diplomatic-ties-with-uae-algerian-state-tv-says-2026-09-10), with context from [Al Jazeera](https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know) and [DW](https://www.dw.com/en/algeria-uae-cut-diplomatic-ties-airspace/a-79222141).
+
+Image: The chamber of Algeria's National People's Assembly in Algiers. [Magharebia](https://commons.wikimedia.org/wiki/File:H%C3%A9micycle_de_l%27assembl%C3%A9e_populaire_nationale_(Alg%C3%A9rie).jpg), CC BY 2.0, via Wikimedia Commons.
